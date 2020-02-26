@@ -87,7 +87,7 @@ int keyboardToggleVal = digitalRead(BUTTON_TOGGLE_KEYBOARD_PIN);
      //for debugging
      Serial.println(audioVal);
      Serial.println(",");
-     delay(600);
+//     delay(600);
   }
   
   delay(100); //why delay?
